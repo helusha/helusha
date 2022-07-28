@@ -1,6 +1,6 @@
 - 👋 Hi, I’m helen
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning software engineering
+- 🌱 I graduated in software engineering
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me Helendawit90@gmail.com
 
